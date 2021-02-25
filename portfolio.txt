@@ -1,0 +1,7 @@
+emoji
+text 
+colour
+images
+designs
+emails
+numbers
