@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="mail" transform="translate(637 -82)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="17.5" cy="17.5" r="17.5" transform="translate(-637 82)"/>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(-632 90)" fill="#0a0a0a" stroke="#fff" stroke-width="1">
+      <rect width="24" height="18" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="17" rx="2.5" fill="none"/>
+    </g>
+    <line id="Line_4" data-name="Line 4" x2="11" y2="5" transform="translate(-631.5 93.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_5" data-name="Line 5" y1="5" x2="12" transform="translate(-620.5 93.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="0.5" cy="0.5" r="0.5" transform="translate(-621 98)" fill="#fff"/>
+  </g>
+</svg>

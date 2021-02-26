@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="338" height="312" viewBox="0 0 338 312">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.101" y1="0.223" x2="0.892" y2="0.828" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2fdee3" stop-opacity="0.859"/>
+      <stop offset="0.47" stop-color="#29c3c7" stop-opacity="0.859"/>
+      <stop offset="0.472" stop-color="#29c3c7" stop-opacity="0.859"/>
+      <stop offset="1" stop-color="#186f72"/>
+    </linearGradient>
+    <filter id="Ellipse_31" x="138" y="24" width="34" height="32" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_1">
+      <rect width="338" height="312"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <rect width="338" height="312" fill="#0c0a0a"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(42 31)" fill="rgba(47,222,227,0.86)" stroke="#707070" stroke-width="1">
+      <ellipse cx="132" cy="129" rx="132" ry="129" stroke="none"/>
+      <ellipse cx="132" cy="129" rx="131.5" ry="128.5" fill="none"/>
+    </g>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_16" data-name="Ellipse 16" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_17" data-name="Ellipse 17" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_18" data-name="Ellipse 18" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_19" data-name="Ellipse 19" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_20" data-name="Ellipse 20" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_21" data-name="Ellipse 21" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_22" data-name="Ellipse 22" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="rgba(47,222,227,0.86)"/>
+    <ellipse id="Ellipse_23" data-name="Ellipse 23" cx="132" cy="129" rx="132" ry="129" transform="translate(42 31)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="30.5" cy="17" rx="30.5" ry="17" transform="matrix(0.891, 0.454, -0.454, 0.891, 23.858, 146.442)" fill="#0c0a0a"/>
+    <ellipse id="Ellipse_24" data-name="Ellipse 24" cx="30.5" cy="31" rx="30.5" ry="31" transform="translate(36 55)" fill="#2dd7dc"/>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="23" cy="15" rx="23" ry="15" transform="translate(141.919 18.403) rotate(22)" fill="#0c0a0a"/>
+    <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="23" cy="20" rx="23" ry="20" transform="translate(131 18)" fill="#0c0a0a"/>
+    <ellipse id="Ellipse_26" data-name="Ellipse 26" cx="23" cy="20" rx="23" ry="20" transform="translate(64 30)" fill="#0c0a0a"/>
+    <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="21" cy="19.5" rx="21" ry="19.5" transform="translate(24 104)" fill="#0c0a0a"/>
+    <ellipse id="Ellipse_25" data-name="Ellipse 25" cx="21" cy="19.5" rx="21" ry="19.5" transform="translate(24 104)" fill="#0c0a0a"/>
+    <ellipse id="Ellipse_28" data-name="Ellipse 28" cx="11.5" cy="9" rx="11.5" ry="9" transform="matrix(0.788, 0.616, -0.616, 0.788, 14.661, 8.751)" fill="#2dd7dc"/>
+    <circle id="Ellipse_29" data-name="Ellipse 29" cx="6" cy="6" r="6" transform="translate(42 117)" fill="#2dd7dc"/>
+    <circle id="Ellipse_30" data-name="Ellipse 30" cx="7" cy="7" r="7" transform="translate(83 44)" fill="#2dd7dc"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_31)">
+      <ellipse id="Ellipse_31-2" data-name="Ellipse 31" cx="8" cy="7" rx="8" ry="7" transform="translate(147 30)" fill="#2dd7dc"/>
+    </g>
+    <ellipse id="Ellipse_32" data-name="Ellipse 32" cx="6" cy="8" rx="6" ry="8" transform="translate(87.188 17.07) rotate(-42)" fill="#2dd7dc"/>
+    <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="10" cy="7.5" rx="10" ry="7.5" transform="matrix(0.848, 0.53, -0.53, 0.848, 52.494, 16.84)" fill="#2dd7dc"/>
+    <ellipse id="Ellipse_34" data-name="Ellipse 34" cx="10" cy="8.5" rx="10" ry="8.5" transform="matrix(0.809, 0.588, -0.588, 0.809, 13.906, 42.746)" fill="#2dd7dc"/>
+    <ellipse id="Ellipse_35" data-name="Ellipse 35" cx="7" cy="8" rx="7" ry="8" transform="translate(10 83)" fill="#2dd7dc"/>
+    <ellipse id="Ellipse_36" data-name="Ellipse 36" cx="6.5" cy="6" rx="6.5" ry="6" transform="translate(44 173)" fill="#2dd7dc"/>
+    <ellipse id="Ellipse_37" data-name="Ellipse 37" cx="6" cy="6.5" rx="6" ry="6.5" transform="translate(21 114)" fill="#2dd7dc"/>
+    <text id="R" transform="translate(90 229)" fill="#070d02" font-size="196" font-family="SnapITC-Regular, Snap ITC"><tspan x="0" y="0">R</tspan></text>
+    <ellipse id="Ellipse_38" data-name="Ellipse 38" cx="18" cy="16" rx="18" ry="16" transform="matrix(0.788, 0.616, -0.616, 0.788, 206.666, 19.31)" fill="#0c0a0a"/>
+    <ellipse id="Ellipse_39" data-name="Ellipse 39" cx="5.5" cy="6.5" rx="5.5" ry="6.5" transform="translate(206 37)" fill="#2dd7dc"/>
+  </g>
+</svg>
