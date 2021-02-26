@@ -1,0 +1,365 @@
+@import 'utilities.css';
+
+:root{
+    --primary: #b631eb;
+    --dark : #0c0a0a;
+    --pure: #FFFFFF;
+    --ternary: #7c7c7c;
+    --light: #F2F2F2;
+}
+
+body{
+    
+    font-family: 'Poppins',sans-serif;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+   
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    
+    
+}
+
+
+header{
+     background:var(--dark);
+     /* height: 750px; */
+     clip-path: polygon(0 0, 100% 0, 100% 100%, 68% 87%, 0 100% );
+    
+}
+
+.container{
+    max-width: 1080px;
+    padding: 0 5px;
+    margin:0 auto;
+}
+
+header nav .left a{
+    color: var(--pure);
+    text-decoration: none;
+    margin-right: 2rem;
+    text-transform: uppercase;
+    transition:all .4s ease;
+    
+}
+
+header nav .left a:hover{
+    color: var(--primary);
+}
+
+header nav {
+    padding: 2rem 0;
+
+}
+/* header .navbar{
+    position: fixed;
+    box-sizing: border-box;
+    background-color: var(--dark);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+} */
+header nav .branding{
+    margin-right: 1rem;
+    margin-left: 1rem;
+   height: auto;
+   width: auto;
+   padding-top: 0.5rem;
+
+}
+.mybrand{
+    height: 5rem;
+    width: 5rem;
+}
+
+
+.ravi{
+    padding: 12rem 0;
+    padding-top: -5rem;
+}
+
+.ravi .left img{
+    width: 300px;
+    height: 450px;
+    
+}
+
+.ravi .right{
+    color: var(--pure);
+    
+    
+
+}
+.ravi .right h3{
+    font-size: 1.6rem;
+    color: var(--primary);
+    margin-bottom: 0.5rem;
+    line-height: 0.4rem;
+}
+.ravi .right h2{
+    color: rgb(30, 228, 30);
+    font-size: 3.2rem;
+    font-weight: 80;
+    margin-bottom: 1.2rem;
+}
+.ravi .right h4{
+    font-size: 1.6rem;
+    line-height:1.3 ;
+    margin-bottom: 0.5rem;
+    color: var(--primary);
+}
+.ravi .right h4 span{
+    font-size: 1.7rem;
+  
+}
+
+.ravi .right p{
+    line-height: 1.7;
+    margin-bottom: 1.8rem;
+    font-size: 1.3rem;
+}
+
+section{
+    padding: 10rem 0;
+   
+}
+section.about .about-img{
+    height: 250px;
+    margin-left: 7rem;
+    margin-bottom: 12rem;
+
+}
+.about .aright h1{
+    font-size: 2.5rem;
+    margin-bottom: 1.6rem;
+    margin-top: 0.5rem;
+    
+    
+
+}
+.about .aright h1 span{
+   color: var(--primary);
+}
+.about .aright h3{
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+    font-weight: 550;
+}
+.about .aright h3 span{
+    color: var(--primary);
+}
+
+section.about p{
+    font-family: 'Lato' , sans-serif;
+    line-height: 1.7;
+    color:var(--ternary);
+    font-weight: 600;
+}
+section.about .social{
+    display:flex;
+}
+section.about .social a{
+    background:white;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width: 35px;
+    height: 35px;
+    border-radius:55%;
+    margin-right:0.7rem;
+    margin-top: 1.8rem;
+}
+section.about .social a img{
+    width: 100%;
+    height: 100%;
+}
+section.about .social a:hover{
+    background: rgb(23, 224, 231);
+    transition: all 0.3s ease;
+}
+.section-heading{
+    
+    text-align: center;
+    margin-bottom: 3.5rem;
+    line-height: 0.5;
+    font-size: 2rem;
+    font-weight: 650;
+}
+.section-heading span{
+    color: var(--primary)
+}
+
+.section-heading + p{
+    color: var(--ternary);
+    font-family: 'Lato' , sans-serif;
+    margin-bottom: 1.5rem;
+}
+section.services{
+    background-color: var(--light);
+    /* background-image: url(../Images/coderb.jpg); */
+    
+   
+}
+
+
+section.services .card-wrapper .card{
+    background: var(--pure);
+    padding: 3rem 3.7rem;
+    text-align: center;
+    border-radius: 10%;
+    transition: all 0.4s ease;
+    
+
+}
+section.services .card-wrapper .card h2{
+    text-align: center;
+    margin-top: 2rem;
+   font-weight: 700;
+   font-family: 'Lato' sans-serif;
+   font-size: 3.5rem;
+   color: rgb(37, 32, 32);
+}
+
+section.services .card-wrapper .card:hover{
+    background: rgb(243, 218, 218); /* skill box colour*/
+}
+
+section.services .slider .slide img{
+        width: 100px;
+        height: 100px;
+        text-align: center;
+}
+section.services .slider .slide {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 5rem;
+    margin-right: 18rem;
+    margin-left: 18rem;
+
+}
+section.services .slider-dots .dots{
+    list-style-type: none;
+    display: flex!important;
+    justify-content: center;
+
+}
+section.services .slider-dots{
+  margin-top: 4rem;
+}
+section.services .slider-dots button{
+    font-size: 0;
+    width: 10px;
+    height: 8px;
+    margin: 0.2rem;
+    border: none;
+    outline: none;
+    background: var(--ternary);
+    border-radius: 50px;
+    cursor: pointer;
+}
+section.services .dots li.slick-active button{
+    background: rgb(190, 78, 224);
+    width: 25px;
+    transition: all 0.4s ease;
+}
+section.coder{
+    text-align: center;
+    background: url(../Images/coderb.jpg);
+   color:white;
+   /* clip-path: polygon( 18% 0, 100% 0, 82% 100%, 0 100%); */
+}
+
+section.coder h1{
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+section.coder p{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+section.contact{
+   
+  height: auto;   
+}
+
+section.contact .card-wrapper{
+    display: grid;
+   grid-template-columns: repeat(2,1fr);
+   grid-gap: 0.1rem;
+
+}
+section.contact .card-wrapper .card{
+    text-align: center;
+    padding: 5rem;
+}
+section.contact .card-wrapper .card img{
+    margin-bottom: 1.5rem;
+}
+section.contact .card-wrapper .card h6{
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--ternary);
+}
+section.contact .card-wrapper .card h6{
+    font-family: 'Lato' sans-serif;
+}
+section.contact .input-wrap{
+    display: grid;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    
+    
+}
+section.contact .input-wrap-2{
+    display: grid;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    
+    
+ 
+}
+section.contact .input-wrap-3{
+    display: grid;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    
+  
+}
+section.contact .input-wrap-3 textarea{
+    padding: 0.5rem;
+    border: 1px solid var(--primary);
+}
+section.contact input{
+    padding: 1rem;
+    border: 1px solid var(--primary);
+    font-size: 0.9rem;
+
+}
+section.contact input:focus, section.contact .input-wrap-3 textarea:focus{
+    outline: none;
+}
+section.contact .btn-wrapper{
+    text-align: center;
+}
+footer{
+    background: var(--dark);
+ 
+}
+footer .foot{
+    text-align: center;
+    font-family: 'Lato' sans-serif;
+    font-weight: 800;
+    color: white;
+    padding: 3rem;
+    font-size: 3rem;
+}
+footer .foot span{
+    color: rgb(255, 0, 0);
+}
